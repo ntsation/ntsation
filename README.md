@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ntsation&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/ntsation)
+
+<h4>Sou um apaixonado por dados com uma sólida formação em tecnologias essenciais para análise, ciência e engenharia de dados. Com conhecimento em SQL, Python, Power BI e muito mais.<h4>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Nathan+Souza;Tenho+22+anos;Sou+do+Rio+de+Janeiro,+Brasil;Faço+graduação+de+Ciência+da+Computação;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ntsation&bg_color=fffafa&color=0000ff&line=008000&point=0000ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yeasin`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ntsation&theme=github-compact)](https://github.com/ntsation/github-readme-activity-graph)
 
 
 <div align="center"> 
@@ -32,6 +32,3 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ntsation}/count.svg" /></p> 
 <br>
 </div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer"/>
