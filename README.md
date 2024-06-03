@@ -24,7 +24,6 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-0D1117?style=for-the-badge&logo=jenkins&labelColor=0D1117)&nbsp;
 ![Rundeck](https://img.shields.io/badge/-RunDeck-0D1117?style=for-the-badge&logo=rundeck&labelColor=0D1117)&nbsp;
 ### Estudando:
-![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
 ![LLMs](https://img.shields.io/badge/-LLMs-0D1117?style=for-the-badge&logo=openai&labelColor=0D1117)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS_cloud-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117)&nbsp;
 <div align="center">
