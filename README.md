@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,sqlite,jenkins,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,sqlite,githubactions,jenkins,docker,aws,terraform" />
   </a>
 </p>
 
